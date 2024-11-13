@@ -1,4 +1,4 @@
-# Hi, I'm Hasif Khan 👋
+ivy# Hi, I'm Hasif Khan 👋
 
 Welcome to my GitHub profile! I’m a dedicated **Cybersecurity Specialist** and **Tech Professional** with a strong foundation in **Computer Science**. My portfolio reflects my passion for **cybersecurity**, **technology development**, and continuous learning in the field.
 
@@ -20,11 +20,8 @@ Welcome to my GitHub profile! I’m a dedicated **Cybersecurity Specialist** and
 
 ### 🌱 What I'm Currently Working On:
 - Preparing for further **certifications** and expanding my knowledge in **cybersecurity**.
-- **Exam Prep**: Actively studying for exams in computer architecture and organization.
+- **Exam Prep**: Actively studying for exams in Computer Engineering.
 
-### 📫 Let's Connect:
-- **Email**: [hasifkhan@example.com](mailto:hasifkhan@example.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/hasifkhan)
 
 ### 💡 Fun Fact:
 Even with my busy schedule, I find time to delve into the latest trends in cybersecurity, and I love experimenting with tech hardware setups.
