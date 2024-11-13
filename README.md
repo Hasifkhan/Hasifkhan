@@ -1,6 +1,34 @@
-# 💫 About Me:
-Hi, I'm Hasif Khan 👋<br>Welcome to my GitHub profile! I’m a dedicated Cybersecurity Specialist and Tech Professional with a strong foundation in Computer Science. My portfolio reflects my passion for cybersecurity, technology development, and continuous learning in the field.<br><br>👨‍💻 About Me:<br>🔐 Cybersecurity Expert: With certifications and extensive experience in cybersecurity, I specialize in network security, ethical hacking, and system protection.<br>🎓 CSE Graduate: Holding a degree in Computer Science & Engineering, I continuously expand my expertise in advanced computing topics.<br>⚙️ Computer Enthusiast: I have a strong passion for building custom PCs and setting up computer labs, helping clients and colleagues alike.<br>🔧 Skills & Expertise:<br>Cybersecurity: Penetration Testing, Ethical Hacking, Incident Response, Network Security.<br>Programming: Python, Java, C, C++, SQL.<br>Operating Systems: Linux, Windows, Virtual Machines.<br>Systems Management: Cloud Computing, Server Setup, Hardware Configuration.<br>💼 Current Jobs:<br>Technical Officer (Lab): Responsible for overseeing and maintaining computer lab setups, assisting students, and ensuring smooth operations of IT infrastructure.<br>Cybersecurity Professional: Actively working on securing networks and improving system vulnerabilities as part of my daily responsibilities in cybersecurity.<br>Evening Office Job: In addition to my technical roles, I handle administrative tasks and support system maintenance in an office environment during the evening hours.<br>🌱 What I'm Currently Working On:<br>Preparing for further certifications and expanding my knowledge in cybersecurity.<br>Exam Prep: Actively studying for exams in computer architecture and organization.<br>📫 Let's Connect:<br>Email: mrhasifkhan@outlook.com<br>LinkedIn: https://www.linkedin.com/in/hasifkhan<br>FaceBook: https://www.facebook.com/mr.hasifkhan<br>Twitter: https://x.com/mrhasifkhan<br>💡 Fun Fact:<br>Even with my busy schedule, I find time to delve into the latest trends in cybersecurity, and I love experimenting with tech hardware setups.
+# Hi, I'm Hasif Khan 👋
 
+Welcome to my GitHub profile! I’m a dedicated **Cybersecurity Specialist** and **Tech Professional** with a strong foundation in **Computer Science**. My portfolio reflects my passion for **cybersecurity**, **technology development**, and continuous learning in the field.
+
+### 👨‍💻 About Me:
+- 🔐 **Cybersecurity Expert**: With certifications and extensive experience in cybersecurity, I specialize in **network security**, **ethical hacking**, and **system protection**.
+- 🎓 **CSE Graduate**: Holding a degree in **Computer Science & Engineering**, I continuously expand my expertise in advanced computing topics.
+- ⚙️ **Computer Enthusiast**: I have a strong passion for **building custom PCs** and setting up computer labs, helping clients and colleagues alike.
+
+### 🔧 Skills & Expertise:
+- **Cybersecurity**: Penetration Testing, Ethical Hacking, Incident Response, Network Security.
+- **Programming**: Python, Java, C, C++, SQL.
+- **Operating Systems**: Linux, Windows, Virtual Machines.
+- **Systems Management**: Cloud Computing, Server Setup, Hardware Configuration.
+
+### 💼 Current Jobs:
+- **Technical Officer (Lab)**: Responsible for overseeing and maintaining computer lab setups, assisting students, and ensuring smooth operations of IT infrastructure.
+- **Cybersecurity Professional**: Actively working on securing networks and improving system vulnerabilities as part of my daily responsibilities in cybersecurity.
+- **Evening Office Job**: In addition to my technical roles, I handle administrative tasks and support system maintenance in an office environment during the evening hours.
+
+### 🌱 What I'm Currently Working On:
+- Preparing for further **certifications** and expanding my knowledge in **cybersecurity**.
+- **Exam Prep**: Actively studying for exams in computer architecture and organization.
+
+
+### 💡 Fun Fact:
+Even with my busy schedule, I find time to delve into the latest trends in cybersecurity, and I love experimenting with tech hardware setups.
+
+---
+
+> "The best way to predict the future is to create it." — Peter Drucker
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mr.hasifkhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasifkhan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27904669/hasif-khan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrhasifkhan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCmdcx_nuhG0iSM42vYreccg) 
